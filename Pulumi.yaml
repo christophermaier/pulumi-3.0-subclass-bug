@@ -1,0 +1,6 @@
+name: pulumi-3.0-bug-testcase
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A minimal AWS Python Pulumi program
